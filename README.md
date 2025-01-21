@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Miar Saleh!
+## Hi there 👋 I'm Mayar Saleh!
 Welcome to my GitHub! I'm a passionate mobile application developer focused on creating innovative and user-friendly apps. I’m always eager to learn and apply new technologies to deliver high-performance solutions.
 
 # 💫 About Me:
